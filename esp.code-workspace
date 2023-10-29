@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "esp-firebase",
+			"path": "esp-firebase"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"algorithm": "cpp",
+			"mutex": "cpp",
+			"stop_token": "cpp",
+			"cstddef": "cpp",
+			"limits": "cpp"
+		}
+	}
+}
