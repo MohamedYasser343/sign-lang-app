@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202804853993",
+    "project_id": "sign-lang-app",
+    "storage_bucket": "sign-lang-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202804853993:android:4eae14165e9a877adc8478",
+        "android_client_info": {
+          "package_name": "com.example.sign_lang_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeGunL0Of5ouU66j5fgJYQudrGczwdkZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
